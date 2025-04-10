@@ -1,6 +1,6 @@
 # Hi, I'm Monica 👋🏽  
-🚀 I'm on a journey of learning more and diving deep into the world of cloud computing.<br/>
 🏫 Currently learning about Cybersecurity and studying for CySA+. <br/>
+🚀 I'm on a journey of learning more and diving deep into the world of cloud computing.<br/>
 📚 Next stop AWS and Python, with projects as hands-on experience.<br/>
 
 ## Cybersecurity Projects:
