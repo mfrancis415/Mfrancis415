@@ -4,7 +4,7 @@
 📚 Next stop AWS and Python, with projects as hands-on experience.<br/>
 
 ## Cybersecurity Projects:
-- [Active Directory Home Lab](https://github.com/mfrancis415/ActiveDirectoryLab) 
+- [Password Encryption & Decryption with Fernet](https://github.com/mfrancis415/Password-Manager) 
 <br></br>
 
 # 💻 Tech Stack:
