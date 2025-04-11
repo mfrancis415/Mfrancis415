@@ -4,7 +4,14 @@
 📚 Next stop AWS and Python, with projects as hands-on experience.<br/>
 
 ## Cybersecurity Projects:
+Beginner</br>
 - [Password Encryption & Decryption with Fernet](https://github.com/mfrancis415/Password-Manager) 
+
+Intermediate</br>
+- Pending
+  
+Advanced</br>
+- Pending
 <br></br>
 
 # 💻 Tech Stack:
