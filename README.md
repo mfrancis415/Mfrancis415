@@ -5,6 +5,7 @@
 
 ## Cybersecurity Projects:
 Beginner</br>
+- [Simple Port Scanner](https://github.com/mfrancis415/Simple-Port-Scanner) - In Progress
 - [Password Encryption & Decryption with Fernet](https://github.com/mfrancis415/Password-Manager) 
 
 Intermediate</br>
