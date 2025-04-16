@@ -18,7 +18,10 @@ Learning
   - [Learning Python](https://github.com/mfrancis415/Learning-Python)
   - [Learning Typescript](https://github.com/mfrancis415/Learning-Typescript)
   - [Learning SQL](https://github.com/mfrancis415/Learning-SQL)
-- 
+  - Rust
+  - Go
+  - R
+  - Zig/Julia
 <br></br>
 
 # 💻 Tech Stack:
