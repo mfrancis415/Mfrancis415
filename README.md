@@ -15,8 +15,9 @@ Advanced</br>
 
 ## Lanugages
 Learning
-  - [Learning Simple Python](https://github.com/mfrancis415/Learning-Python)
-  - [Learning Simple Typescript](https://github.com/mfrancis415/Learning-Typescript)
+  - [Learning Python](https://github.com/mfrancis415/Learning-Python)
+  - [Learning Typescript](https://github.com/mfrancis415/Learning-Typescript)
+  - [Learning SQL](https://github.com/mfrancis415/Learning-SQL)
 - 
 <br></br>
 
