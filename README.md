@@ -12,7 +12,11 @@ Intermediate</br>
   
 Advanced</br>
 - Pending
-- 
+
+## Cloud Learning
+- [Hositing a Website with AWS](https://github.com/mfrancis415/AWS_Host_a_Website/tree/main)
+- Visualize data with QuickSight - Pending
+
 ## CyberCrime Investigation
 - [Cybercrime Prevention Awareness](https://github.com/mfrancis415/Cybercrime-Prevention-Awareness-Campaign)
 - 
