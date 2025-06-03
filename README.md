@@ -1,5 +1,5 @@
 # Hi, I'm Monica 👋🏽  
-🏫 Currently learning about Cybersecurity and studying for CySA+. <br/>
+🏫 Currently finding my space in Cybersecurity, passed the CySA+, and studying for the Splunk Core Cert. <br/>
 🚀 I'm on a journey of learning more and diving deep into the world of cloud computing.<br/>
 📚 Next stop AWS and Python, with projects as hands-on experience.<br/>
 
