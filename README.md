@@ -5,6 +5,8 @@
 
 ## Cybersecurity Projects:
 Beginner</br>
+- [HTTP Traffice Analysis & Incident Response](https://github.com/mfrancis415/Incident-Report-Cyber-Attack)
+- [Analyze Traffic with Wireshark](https://github.com/mfrancis415/Analyze-Traffic-with-Wireshark)
 - [Simple Port Scanner](https://github.com/mfrancis415/Simple-Port-Scanner) - In Progress
 
 Intermediate</br>
