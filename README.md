@@ -1,7 +1,10 @@
 # Hi, I'm Monica 👋🏽  
-🏫 Currently finding my space in Cybersecurity, passed the CySA+, and studying for the Splunk Core Cert. <br/>
+🎓 B.S. in Management Inofornation Systems <br/>
+📚 CompTIA Cybersecurity Analyst (CySA+), Splunk Core Certitification _Expected June_ <br/>
+🛡️ Security Policies | Vulnerability Assessment | Risk Management | Cybercrime Awareness | Compliance<br/>
+🏫 Carving out my space in Cybersecurity. I may have recently earned my certification, but I've always been a threat hunter, educating others on cybercrime awareness and proactively assessing risks. <br/>
 🚀 I'm on a journey of learning more and diving deep into the world of cloud computing.<br/>
-📚 Next stop AWS and Python, with projects as hands-on experience.<br/>
+ Next stop AWS and Python, with projects as hands-on experience.<br/>
 
 ## Cybersecurity Projects:
 Beginner</br>
