@@ -7,16 +7,11 @@
  Next stop AWS and Python, with projects as hands-on experience.<br/>
 
 ## Cybersecurity Projects:
-Beginner</br>
 - [HTTP Traffice Analysis & Incident Response](https://github.com/mfrancis415/Incident-Report-Cyber-Attack)
 - [Analyze Traffic with Wireshark](https://github.com/mfrancis415/Analyze-Traffic-with-Wireshark)
+- [Nmap Port Scanning](https://github.com/mfrancis415/Nmap-Port-Scanning)
+- [Using Telnet and SSH](https://github.com/mfrancis415/Secure-Remote-Management-Implementation)
 - [Simple Port Scanner](https://github.com/mfrancis415/Simple-Port-Scanner) - In Progress
-
-Intermediate</br>
-- Pending
-  
-Advanced</br>
-- Pending
 
 ## Cloud Learning
 - [Hositing a Website with AWS](https://github.com/mfrancis415/AWS_Host_a_Website/tree/main)
