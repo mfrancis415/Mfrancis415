@@ -7,7 +7,7 @@
  Next stop AWS and Python, with projects as hands-on experience.<br/>
 
 ## Cybersecurity Projects:
-- [HTTP Traffice Analysis & Incident Response](https://github.com/mfrancis415/Incident-Report-Cyber-Attack)
+- [HTTP Traffic Analysis & Incident Response](https://github.com/mfrancis415/Incident-Report-Cyber-Attack)
 - [Analyze Traffic with Wireshark](https://github.com/mfrancis415/Analyze-Traffic-with-Wireshark)
 - [Nmap Port Scanning](https://github.com/mfrancis415/Nmap-Port-Scanning)
 - [Using Telnet and SSH](https://github.com/mfrancis415/Secure-Remote-Management-Implementation)
