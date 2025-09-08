@@ -6,6 +6,14 @@
 🚀 I'm on a journey of learning more and diving deep into the world of cloud computing.<br/>
  Next stop AWS and Python, with projects as hands-on experience.<br/>
 
+## Vulnerability Management Projects
+- Vunlerability Management Program Implementation - In Progress
+- Programmatic Vulnerability Remediation (PowerShell and BASH) - Coming Soon
+
+## Security Operation and Incident Response Projects
+- Creations of a Mini SOC and Honeynet
+- Threat Hunting Detection Use Case
+
 ## Cybersecurity Projects:
 - [HTTP Traffic Analysis & Incident Response](https://github.com/mfrancis415/Incident-Report-Cyber-Attack)
 - [Analyze Traffic with Wireshark](https://github.com/mfrancis415/Analyze-Traffic-with-Wireshark)
