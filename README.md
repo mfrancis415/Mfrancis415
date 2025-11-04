@@ -8,6 +8,7 @@
 
 ## Vulnerability Management Projects
 - [Vunlerability Management Program Implementation](https://github.com/mfrancis415/Vulnerability-Management-Program-Implementation)
+- [STIG Implementations (PowerShell)](https://github.com/mfrancis415/STIG-Implementations)
 - Programmatic Vulnerability Remediation (PowerShell and BASH) - Coming Soon
 
 ## Security Operation and Incident Response Projects
