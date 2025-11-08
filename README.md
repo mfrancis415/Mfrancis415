@@ -7,12 +7,12 @@
  Next stop AWS and Python, with projects as hands-on experience.<br/>
 
 ## Vulnerability Management Projects
-- [Vunlerability Management Program Implementation](https://github.com/mfrancis415/Vulnerability-Management-Program-Implementation)
+- [Vulnerability Management Program Implementation](https://github.com/mfrancis415/Vulnerability-Management-Program-Implementation)
 - [STIG Implementations (PowerShell)](https://github.com/mfrancis415/STIG-Implementations)
 - Programmatic Vulnerability Remediation (PowerShell and BASH) - Coming Soon
 
 ## Security Operation and Incident Response Projects
-- [Threat Hunting Scenerio (Tor Broswer Usage)](https://github.com/mfrancis415/threat-hunting-scenario-tor/tree/main)
+- [Threat Hunting Scenario (Tor Broswer Usage)](https://github.com/mfrancis415/threat-hunting-scenario-tor/tree/main)
 - Creations of a Mini SOC and Honeynet - Coming Soon
 
 ## Cybersecurity Projects:
