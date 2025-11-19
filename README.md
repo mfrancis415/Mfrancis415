@@ -11,9 +11,9 @@
 - [STIG Implementations (PowerShell)](https://github.com/mfrancis415/STIG-Implementations)
 - Programmatic Vulnerability Remediation (PowerShell and BASH) - Coming Soon
 
-## Security Operation and Incident Response Projects
+## Threat Hunting and Security Operation Projects
 - [Threat Hunting Scenario (Tor Broswer Usage)](https://github.com/mfrancis415/threat-hunting-scenario-tor/tree/main)
-- Creations of a Mini SOC and Honeynet - Coming Soon
+- Threat Hunting Capture the Flag: - Coming Soon
 
 ## Cybersecurity Projects:
 - [HTTP Traffic Analysis & Incident Response](https://github.com/mfrancis415/Incident-Report-Cyber-Attack)
