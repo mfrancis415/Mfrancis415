@@ -12,8 +12,8 @@
 - Programmatic Vulnerability Remediation (PowerShell and BASH) - Coming Soon
 
 ## Threat Hunting and Security Operation Projects
-- [Threat Hunting Scenario (Tor Broswer Usage)](https://github.com/mfrancis415/threat-hunting-scenario-tor/tree/main)
-- Threat Hunting Capture the Flag: - Coming Soon
+- [Threat Hunting Scenario (Tor Broswer Usage)](https://github.com/mfrancis415/threat-hunting-scenario-tor)
+- [Threat Hunting Capture the Flag: Support Misdirection](https://github.com/mfrancis415/ctf-gab-intern-vm)
 
 ## Cybersecurity Projects:
 - [HTTP Traffic Analysis & Incident Response](https://github.com/mfrancis415/Incident-Report-Cyber-Attack)
