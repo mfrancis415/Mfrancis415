@@ -8,8 +8,7 @@
 
 ## Vulnerability Management Projects
 - [Vulnerability Management Program Implementation](https://github.com/mfrancis415/Vulnerability-Management-Program-Implementation)
-- [STIG Implementations (PowerShell)](https://github.com/mfrancis415/STIG-Implementations)
-- Programmatic Vulnerability Remediation (PowerShell and BASH) - Coming Soon
+- [Programmatic Vulnerability Remediation(Powershell)]((https://github.com/mfrancis415/STIG-Implementations))
 
 ## Threat Hunting and Security Operation Projects
 - [Threat Hunting Scenario (Tor Broswer Usage)](https://github.com/mfrancis415/threat-hunting-scenario-tor)
