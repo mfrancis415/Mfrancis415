@@ -8,11 +8,12 @@
 
 ## Vulnerability Management Projects
 - [Vulnerability Management Program Implementation](https://github.com/mfrancis415/Vulnerability-Management-Program-Implementation)
-- [Programmatic Vulnerability Remediation(Powershell)]((https://github.com/mfrancis415/STIG-Implementations))
+- [Programmatic Vulnerability Remediation(Powershell)](https://github.com/mfrancis415/STIG-Implementations)
 
 ## Threat Hunting and Security Operation Projects
 - [Threat Hunting Scenario (Tor Broswer Usage)](https://github.com/mfrancis415/threat-hunting-scenario-tor)
-- [Threat Hunting Capture the Flag: Support Misdirection](https://github.com/mfrancis415/ctf-gab-intern-vm)
+- [Threat Hunting: Support Misdirection](https://github.com/mfrancis415/ctf-gab-intern-vm)
+- Threat Hunting: Coming Soon
 
 ## Cybersecurity Projects:
 - [HTTP Traffic Analysis & Incident Response](https://github.com/mfrancis415/Incident-Report-Cyber-Attack)
