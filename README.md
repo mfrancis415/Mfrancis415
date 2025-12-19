@@ -13,9 +13,9 @@
 ## Threat Hunting and Security Operation Projects
 - [Threat Hunting Scenario (Tor Broswer Usage)](https://github.com/mfrancis415/threat-hunting-scenario-tor)
 - [Threat Hunting: Support Misdirection](https://github.com/mfrancis415/ctf-gab-intern-vm)
-- [Threat Hunting: THE AZUKI BREACH SAGA Part 1 — Port of Entry] -Coming Soon
+- [Threat Hunting: THE AZUKI BREACH SAGA Part 1 — Port of Entry -Coming Soon](https://github.com/mfrancis415/Threat-Hunting-THE-AZUKI-BREACH-SAGA-Part-1)
 - [Threat Hunting: THE AZUKI BREACH SAGA_Part 2 - Cargo Hold](https://github.com/mfrancis415/THE-AZUKI-BREACH-SAGA_Part-2-Cargo-Hold)
-- [Threat Hunting: THE AZUKI BREACH SAGA Part 3 — Bridge Takeover - Coming Soon](https://github.com/mfrancis415/THE-AZUKI-BREACH-SAGA-Part-3)
+- [Threat Hunting: THE AZUKI BREACH SAGA Part 3 — Bridge Takeover](https://github.com/mfrancis415/THE-AZUKI-BREACH-SAGA-Part-3)
 
 ## Cybersecurity Projects:
 - [HTTP Traffic Analysis & Incident Response](https://github.com/mfrancis415/Incident-Report-Cyber-Attack)
